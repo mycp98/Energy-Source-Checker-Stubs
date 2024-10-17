@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/regional/intensity/2024-09-01/2024-09-16/postcode/.*"
+  },
+  "response": {
+    "status": 400,
+    "bodyFileName": "400_GET_Out_Of_Range.json"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/regional/intensity/2024-10-01/2024-10-02/postcode/SW12"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "200_GET_Renewable.json"
+  }
+}
+
