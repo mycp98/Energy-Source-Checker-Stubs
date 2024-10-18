@@ -1,3 +1,5 @@
+Stub for https://github.com/mycp98/Energy-Source-Checker
+
 Create a docker image called stubs
 
 > docker build -t stubs .
