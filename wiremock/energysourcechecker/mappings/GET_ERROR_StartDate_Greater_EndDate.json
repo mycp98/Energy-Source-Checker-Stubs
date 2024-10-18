@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/regional/intensity/2024-08-15/2024-08-14/postcode/.*"
+  },
+  "response": {
+    "status": 400,
+    "bodyFileName": "400_GET_StartDate_Greater_EndDate.json"
+  }
+}

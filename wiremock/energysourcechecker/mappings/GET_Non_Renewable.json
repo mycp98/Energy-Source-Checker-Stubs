@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/regional/intensity/2024-10-05/2024-10-06/postcode/LA3"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "200_GET_Non_Renewable.json"
+  }
+}

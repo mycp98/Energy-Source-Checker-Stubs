@@ -1,0 +1,6 @@
+{
+  "error": {
+    "code": "400 Bad Request",
+    "message": "The start datetime should be less than the end datetime i.e. /intensity/2017-08-25T15:30Z/2017-08-27T17:00Z"
+  }
+}
