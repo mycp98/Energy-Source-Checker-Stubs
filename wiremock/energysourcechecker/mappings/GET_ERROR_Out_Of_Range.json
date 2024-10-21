@@ -5,6 +5,9 @@
   },
   "response": {
     "status": 400,
-    "bodyFileName": "400_GET_Out_Of_Range.json"
+    "bodyFileName": "400_GET_Out_Of_Range.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
   }
 }

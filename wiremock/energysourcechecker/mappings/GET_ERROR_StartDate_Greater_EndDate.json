@@ -5,6 +5,9 @@
   },
   "response": {
     "status": 400,
-    "bodyFileName": "400_GET_StartDate_Greater_EndDate.json"
+    "bodyFileName": "400_GET_StartDate_Greater_EndDate.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
   }
 }

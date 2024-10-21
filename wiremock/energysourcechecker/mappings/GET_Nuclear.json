@@ -5,7 +5,10 @@
   },
   "response": {
     "status": 200,
-    "bodyFileName": "200_GET_Nuclear.json"
+    "bodyFileName": "200_GET_Nuclear.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
   }
 }
 

@@ -5,6 +5,9 @@
   },
   "response": {
     "status": 200,
-    "bodyFileName": "200_GET_Non_Renewable.json"
+    "bodyFileName": "200_GET_Non_Renewable.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
   }
 }
